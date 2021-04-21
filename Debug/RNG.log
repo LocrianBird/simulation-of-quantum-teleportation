@@ -1,0 +1,22 @@
+﻿Build started 20.06.2016 18:53:11.
+     1>Project "D:\Copy\Projects\C++\Quantum-Computations\RNG.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Anakreon\Documents\Visual Studio 2013\Projects\RNG\RNG\boost_1_60_0" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _SCL_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt QuantumComputation.cpp
+         QuantumComputation.cpp
+     1>d:\copy\projects\c++\quantum-computations\math_lib.h(72): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\copy\projects\c++\quantum-computations\quantumcomputation.cpp(41): warning C4018: '<': signed/unsigned mismatch
+     1>d:\copy\projects\c++\quantum-computations\math_lib.h(155): warning C4018: '<': signed/unsigned mismatch
+         d:\copy\projects\c++\quantum-computations\math_lib.h(151): note: while compiling class template member function 'Matrix<Complex>::Matrix(unsigned int,unsigned int)'
+         d:\copy\projects\c++\quantum-computations\quantumcomputation.cpp(5): note: see reference to function template instantiation 'Matrix<Complex>::Matrix(unsigned int,unsigned int)' being compiled
+         d:\copy\projects\c++\quantum-computations\quantumcomputation.h(9): note: see reference to class template instantiation 'Matrix<Complex>' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Copy\Projects\C++\Quantum-Computations\Debug\RNG.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Copy\Projects\C++\Quantum-Computations\Debug\RNG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Copy\Projects\C++\Quantum-Computations\Debug\RNG.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\QuantumComputation.obj
+         Debug\RNG.obj
+         Debug\stdafx.obj
+         RNG.vcxproj -> D:\Copy\Projects\C++\Quantum-Computations\Debug\RNG.exe
+     1>Done Building Project "D:\Copy\Projects\C++\Quantum-Computations\RNG.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.12
