@@ -1,3 +1,12 @@
+#Quantum teleportation in simulated quantum environment
+
+The programming part was a simulation of a quantum computer, which
+satisfied the quantum-mechanical conditions, and was written in C++. It also presented a brand-new
+concept, called “quantum trees” that was based on mathematical apparatus of the given realm of
+science. The analytical part compared the time consumption and complexities of both types of
+teleportation and analyzes the results of teleporting a predefined number of qubits.
+
+
 ========================================================================
     CONSOLE APPLICATION : RNG Project Overview
 ========================================================================
