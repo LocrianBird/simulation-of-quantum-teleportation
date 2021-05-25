@@ -6,6 +6,8 @@ concept, called “quantum trees” that was based on mathematical apparatus of 
 science. The analytical part compared the time consumption and complexities of both types of
 teleportation and analyzes the results of teleporting a predefined number of qubits.
 
+You can download documentation from here: https://drive.google.com/file/d/1uNgQwZRZ_O3JJaIEx-N0kFapyJ9VsT8X/view?usp=sharing
+
 
 ========================================================================
     CONSOLE APPLICATION : RNG Project Overview
